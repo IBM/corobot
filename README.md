@@ -12,5 +12,7 @@ This repo contains the Watson Assistant COVID-19 Skill with Chat bot dialogues, 
 6.  Once your assistant has been created, from the assistant home screen click the **Add dialogue skill** button, select the **Import skill** tab, upload the JSON file from this repo (found in the Skill folder) and click **Import**.
 7.  Once the import has completed, you can click on the imported **dialogue skill** and view / edit the Assistant's attributes.
 
-## License
-[Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0.txt)
+## License & Authors
+If you would like to see the detailed Apache 2.0 LICENSE click [here](https://github.com/IBM/corobot/blob/master/LICENSE)
+
+- Authors: Chris Nott <chris_nott@uk.ibm.com> & Garry Whitten <garryw1@uk.ibm.com>
